@@ -105,6 +105,6 @@ This project is licensed under the **MIT License** — feel free to modify and u
 ---
 
 ## 👨‍💻 Author
-**Your Name**  
+**Arunavo Bhowal**  
 💌 Reach me at [arunavobhowal.work@gmail.com](arunavobhowal.work@gmail.com)  
 🔗 [GitHub Profile](https://github.com/arunavo-bhowal)
